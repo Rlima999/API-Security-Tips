@@ -1,5 +1,5 @@
 # API-Security-Tips
-API-Security-Tips Credits to Abhishek Meena
+## API-Security-Tips Credits to Abhishek Meena
 
 ### Never assume there’s only one way to authenticate to an API! Modern apps have many API endpoints for AuthN: /api/mobile/login | /api/v3/login | /api/magic_link; etc.. 
 
